@@ -1,0 +1,7 @@
+C:\Users\Fran\Desktop\Bombita Trunk\Version Particulas\BombitaTp2\BombitaTP2.Vista\bin\Debug\BombitaTP2.Vista.dll
+C:\Users\Fran\Desktop\Bombita Trunk\Version Particulas\BombitaTp2\BombitaTP2.Vista\bin\Debug\BombitaTP2.Vista.pdb
+C:\Users\Fran\Desktop\Bombita Trunk\Version Particulas\BombitaTp2\BombitaTP2.Vista\bin\Debug\BombitaTP2.dll
+C:\Users\Fran\Desktop\Bombita Trunk\Version Particulas\BombitaTp2\BombitaTP2.Vista\bin\Debug\BombitaTP2.pdb
+C:\Users\Fran\Desktop\Bombita Trunk\Version Particulas\BombitaTp2\BombitaTP2.Vista\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fran\Desktop\Bombita Trunk\Version Particulas\BombitaTp2\BombitaTP2.Vista\obj\Debug\BombitaTP2.Vista.dll
+C:\Users\Fran\Desktop\Bombita Trunk\Version Particulas\BombitaTp2\BombitaTP2.Vista\obj\Debug\BombitaTP2.Vista.pdb

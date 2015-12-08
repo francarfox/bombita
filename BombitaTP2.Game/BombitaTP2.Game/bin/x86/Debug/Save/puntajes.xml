@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfInt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <int>30</int>
+  <int>30</int>
+  <int>30</int>
+  <int>30</int>
+  <int>30</int>
+  <int>80</int>
+  <int>80</int>
+  <int>110</int>
+  <int>220</int>
+  <int>220</int>
+</ArrayOfInt>

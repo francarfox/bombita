@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1051]C:\Users\Fran\Desktop\Bombita Trunk\Version Particulas\BombitaTp2\BombitaTP2.Tests\bin\Debug\BombitaTP2.Tests.dll</TopNode>
+  <SelectedNode>[0-1051]C:\Users\Fran\Desktop\Bombita Trunk\Version Particulas\BombitaTp2\BombitaTP2.Tests\bin\Debug\BombitaTP2.Tests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1051]C:\Users\Fran\Desktop\Bombita Trunk\Version Particulas\BombitaTp2\BombitaTP2.Tests\bin\Debug\BombitaTP2.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1052]BombitaTP2" Expanded="true" />
+    <Node UniqueName="[0-1053]BombitaTP2.Tests" Expanded="true" />
+    <Node UniqueName="[0-1054]BombitaTP2.Tests.ArmamentoFixture" Expanded="true" />
+    <Node UniqueName="[0-1056]BombitaTP2.Tests.EscenarioFixture" Expanded="true" />
+    <Node UniqueName="[0-1055]BombitaTP2.Tests.PersonajesFixture" Expanded="true" />
+  </Nodes>
+</VisualState>
